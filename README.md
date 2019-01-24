@@ -7,13 +7,6 @@ Created on Tue Aug 22 15:56:23 2017
 @author: lauren
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 09:40:44 2016
-
-@author: WELG
-"""
-
 def bisect_search1(L, e):
     if L == []:
         return False
